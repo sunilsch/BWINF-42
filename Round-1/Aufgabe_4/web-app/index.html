@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="https://unpkg.com/konva@9.2.0/konva.min.js"></script>
+  <meta charset="utf-8" />
+  <title>Nandu Web App (BWINF 42 Runde 1)</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="content">
+    <h1 class="">Nandu Web App (BWINF 42 Runde 1)</h1>
+    <div id="toolbox">
+      <button onclick="build(true)">Save and Run</button>
+      <div>
+        <button onclick="build(false)">Save and Download</button>
+        <input type="text" id="filename" placeholder="Filename" />
+      </div>
+      <div id="upload-box">
+        <input id="upload" type=file accept="text" name="files[]" size=30>
+      </div>
+      <button onclick="window.location.reload()">Reset all</button>
+      <button onclick="help()">Help</button>
+    </div>
+    <div id="stage-parent">
+      <div id="container"></div>
+      <div id="menu">
+        <div>
+          <button id="delete-button">Delete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+  <script src="scripts/responsive.js"></script>
+  <script src="scripts/context-menu.js"></script>
+  <script src="scripts/zoom.js"></script>
+  <script src="scripts/run.js"></script>
+  <script src="scripts/upload.js"></script>
+  <script src="scripts/download.js"></script>
+  <script src="scripts/build.js"></script>
+</body>
+
+</html>

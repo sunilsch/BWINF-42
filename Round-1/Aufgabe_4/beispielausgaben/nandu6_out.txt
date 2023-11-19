@@ -1,0 +1,5 @@
+Q1   Q2    | L1   
+off  off   | on   
+off  on    | on   
+on   off   | on   
+on   on    | off  

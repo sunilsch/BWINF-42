@@ -1,0 +1,7 @@
+Original Path: 
+Total distance: 3200
+Start -> Blaues Pferd 1523 -> Alte Mühle 1544 -> Marktplatz 1549 -> Zeughaus 1559 -> Marktplatz 1562 -> Springbrunnen 1571 -> Dom 1596 -> Bogenschütze 1610 -> Marktplatz 1622 -> Ruhiges Eck 1625 -> Frauentor 1636 -> Ruhiges Eck 1651 -> Springbrunnen 1675 -> Bogenschütze 1683 -> Schnecke 1698 -> Fischweiher 1710 -> Reiterhof 1728 -> Schnecke 1742 -> Schmiede 1765 -> Große Gabel 1794 -> Schnecke 1829 -> Europapark 1852 -> Große Gabel 1874 -> Fingerhut 1917 -> Stadion 1934 -> Marktplatz 1962 -> Baumschule 1974 -> Polizeipräsidium 1991 -> Blaues Pferd 2004
+
+Best Path with new distances: 
+Total distance: 1640
+Start -> Marktplatz 1562 -> Springbrunnen 1571 -> Dom 1596 -> Bogenschütze 1683 -> Schnecke 1698 -> Fischweiher 1710 -> Reiterhof 1728 -> Schnecke 1829 -> Europapark 1852 -> Große Gabel 1874 -> Fingerhut 1917 -> Stadion 1934 -> Marktplatz 1962

@@ -1,0 +1,7 @@
+Original Path: 
+Total distance: 4560
+Start -> Talstation 1768 -> Wäldle 1805 -> Mittlere Alp 1823 -> Observatorium 1833 -> Wäldle 1841 -> Bergstation 1866 -> Observatorium 1874 -> Piz Spitz 1898 -> Panoramasteg 1912 -> Bergstation 1928 -> Ziegenbrücke 1935 -> Panoramasteg 1952 -> Ziegenbrücke 1979 -> Talstation 2005
+
+Best Path with new distances: 
+Total distance: 2780
+Start -> Talstation 1768 -> Wäldle 1841 -> Bergstation 1866 -> Observatorium 1874 -> Piz Spitz 1898 -> Panoramasteg 1952 -> Ziegenbrücke 1979 -> Talstation 2005

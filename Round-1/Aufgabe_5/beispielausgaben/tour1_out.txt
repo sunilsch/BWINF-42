@@ -1,0 +1,7 @@
+Original Path: 
+Total distance: 2060
+Start -> Brauerei 1613 -> Karzer 1665 -> Rathaus 1678 -> Gründungsstein 1685 -> Wallanlage 1690 -> Rathaus 1739 -> Euler-Brücke 1768 -> Fibonacci-Gaststätte 1820 -> Schiefes Haus 1823 -> Theater 1880 -> Emmy-Noether-Campus 1912 -> Fibonacci-Gaststätte 1923 -> Hilbert-Raum 1945 -> Schiefes Haus 1950 -> Gauß-Turm 1952 -> Emmy-Noether-Campus 1998 -> Euler-Brücke 1999 -> Brauerei 2012
+
+Best Path with new distances: 
+Total distance: 1020
+Start -> Brauerei 1613 -> Karzer 1665 -> Rathaus 1739 -> Euler-Brücke 1768 -> Fibonacci-Gaststätte 1820 -> Schiefes Haus 1823 -> Theater 1880 -> Emmy-Noether-Campus 1998 -> Euler-Brücke 1999 -> Brauerei 2012

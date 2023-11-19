@@ -1,0 +1,7 @@
+Original Path: 
+Total distance: 5000
+Start -> Gabelhaus 1638 -> Burgruine 1654 -> Labyrinth 1667 -> Hängepartie 1672 -> Hexentanzplatz 1681 -> Gabelhaus 1699 -> Hexentanzplatz 1703 -> Eselsbrücke 1711 -> Dreibannstein 1724 -> Alte Wache 1733 -> Palisadenhaus 1740 -> Dreibannstein 1752 -> Schmetterling 1760 -> Dreibannstein 1781 -> Märchenwald 1793 -> Fuchsbau 1811 -> Torfmoor 1817 -> Gartenschau 1825 -> Märchenwald 1840 -> Eselsbrücke 1855 -> Heimatmuseum 1863 -> Eselsbrücke 1877 -> Reiterdenkmal 1880 -> Riesenrad 1881 -> Hochsitz 1885 -> Gartenschau 1898 -> Riesenrad 1902 -> Dreibannstein 1911 -> Olympisches Dorf 1924 -> Haus der Zukunft 1927 -> Stellwerk 1931 -> Dreibannstein 1938 -> Stellwerk 1942 -> Labyrinth 1955 -> Gauklerstadl 1961 -> Planetarium 1971 -> Känguruhfarm 1976 -> Balzplatz 1978 -> Dreibannstein 1998 -> Labyrinth 2013 -> CO2-Speicher 2022 -> Gabelhaus 2023
+
+Best Path with new distances: 
+Total distance: 2010
+Start -> Gabelhaus 1699 -> Hexentanzplatz 1703 -> Eselsbrücke 1711 -> Dreibannstein 1752 -> Schmetterling 1760 -> Dreibannstein 1911 -> Olympisches Dorf 1924 -> Haus der Zukunft 1927 -> Stellwerk 1942 -> Labyrinth 1955 -> Gauklerstadl 1961 -> Planetarium 1971 -> Känguruhfarm 1976 -> Balzplatz 1978 -> Dreibannstein 1998 -> Labyrinth 2013 -> CO2-Speicher 2022 -> Gabelhaus 2023

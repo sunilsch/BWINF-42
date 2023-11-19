@@ -1,0 +1,80 @@
+*, input[type=file]::file-selector-button {
+    font-family: Verdana;
+    font-weight: 100;
+    background-color: #0f0f23;
+    color: #008800;
+}
+
+html,
+body,
+#container,
+#stage-parent {
+    width: 100%;
+    height: 100%;
+}
+#stage-parent {
+    border-top: 1px solid #008800;
+}
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    margin: 20px;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+#toolbox {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 5px;
+    padding: 0;
+}
+#toolbox div {
+    display: flex;
+    flex-direction: column;
+}
+#toolbox button, input[type=text], input[type=file]::file-selector-button, #upload-box {
+    border: 1px solid #008800;
+    border-radius: 5px;
+    margin: 5px;
+    z-index: 9999;
+}
+#toolbox button:hover, input[type=file]::file-selector-button:hover {
+    color: #00ff00;
+    border-color: #00ff00;
+    cursor: pointer;
+}
+input[type=file]{
+    margin: auto 0 auto 0;
+}
+
+
+/* Context menu style  */
+#menu {
+    display: none;
+    position: absolute;
+    width: auto;
+    background-color: white;
+    box-shadow: 0 0 5px grey;
+    border-radius: 3px;
+}
+
+#menu button {
+    width: 100%;
+    background-color: white;
+    border: none;
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#menu button:hover {
+    background-color: lightgray;
+}
